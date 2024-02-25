@@ -1,0 +1,119 @@
+
+.gap{
+    margin-top: 20px;
+}
+.navbar-radius{
+    border-radius: 100px;
+}
+.btn-border-radius{
+    border: 1px solid gray;
+    background-color: white;
+    border-radius: 100px;
+}
+.btn-border-radius:hover{
+  background-color: rgba(122, 110, 110, 0.837);
+  color: white;
+}
+.center-navbar-radius{
+    border-radius: 100px;
+}
+.wid {
+    width: 300px;
+}
+.rou {
+    border-radius: 50px;
+    padding: 10px;
+}
+.right img {
+    height: 550px;
+    width: 100%;
+}
+.marg {
+margin-top: 30px !important;
+}
+.marg-p-1 {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+
+
+.marg-h {
+    margin-top: 20px;
+    margin-left: 60px;
+    line-height: 70px;
+}
+
+
+.marg-p-2 {
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+.marg-input{
+    margin-top: 25px !important;
+    margin-left: 60px;
+}
+
+
+.bgimg {
+    background: linear-gradient(90deg, #a3bddf 0%, #dec4a3 100%);
+    width: 100% !important;
+    
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.size{
+    font-size: 50px !important;
+    color: green;
+}
+.size1{
+    font-size: 50px !important;
+    color: orangered;
+}
+.size2{
+    font-size: 50px !important;
+    color: blue;
+}
+
+
+.margi {
+    margin-top: 20px !important;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+   
+}
+#arrow{
+    margin-top: 30px !important;
+    width: 100px;
+}
+
+.budagai img {
+width: 100%;
+}
+.marga  {
+margin-top: 10px !important;
+}
+.btn{
+    border: 1px solid black !important;
+    border-radius: 50px !important;
+}
+.btn1 {
+    margin-left: 50px !important;
+}
+
+
+.subs {
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.parag {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.marg-input {
+margin-left: 40px;
+}
